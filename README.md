@@ -27,6 +27,7 @@ Setting attributes per-path in your SVG code is the recommended way to exercise 
 
 ## Examples
 [SVG Animated Signature](https://jsfiddle.net/jwrunge/z1b1ft2s/) - No class targeting, no granular control
+
 [SVG Animated Signature](https://jsfiddle.net/jwrunge/bqrykL52/) - No class targeting, granular control
 
 As you can see, having more granular control over animation speed and delay makes for more natural, less jerky animation; foregoing granular control offers less precision, but greater convenience.
