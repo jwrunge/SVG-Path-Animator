@@ -31,3 +31,5 @@ Setting attributes per-path in your SVG code is the recommended way to exercise 
 [SVG Animated Signature](https://jsfiddle.net/jwrunge/bqrykL52/) - No class targeting, granular control
 
 As you can see, having more granular control over animation speed and delay makes for more natural, less jerky animation; foregoing granular control offers less precision, but greater convenience.
+
+The Path Animator can animate the strokes in pictures, too: see [AniPath Picture Demo](https://jsfiddle.net/jwrunge/agywh09x/). Note that this works only on strokes, not fills! Fills will simply appear at the time of their animation, rather than be drawn incrementally.
